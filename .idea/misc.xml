@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JSLintConfiguration" json="true">
+    <option bitwise="true" />
+    <option devel="true" />
+    <option es6="true" />
+    <option eval="true" />
+    <option for="true" />
+    <option maxerr="50" />
+    <option multivar="true" />
+    <option node="true" />
+    <option single="true" />
+    <option this="true" />
+    <option white="true" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aids</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Node.js</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id />
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
